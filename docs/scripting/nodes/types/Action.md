@@ -32,3 +32,5 @@ The function call if the interact button is released before the full `duration`.
 
 Inherits all [Node](/docs/scripting/nodes/Node.md) properties
 
+
+<!-- Auto-update: 2025-10-17T12:43:08.558918 -->
